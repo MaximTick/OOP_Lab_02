@@ -1,0 +1,16 @@
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+D:\Lr_C#\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
